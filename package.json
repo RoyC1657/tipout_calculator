@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "expo": "^54.0.25"
+    "expo": "^54.0.25",
+    "react-native": "^0.82.1"
   },
   "devDependencies": {
     "typescript": "^5.9.3"
